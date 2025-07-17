@@ -19,14 +19,14 @@ Frontend Developer specializing in high-performance web applications for enterpr
 const techStack = {
 	frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 	stateManagement: ["Jotai", "TanStack Query", "Zustand", "Recoil"],
-	backend: ["Node.js", "NestJS", "Java"],
+	backend: ["Node.js", "NestJS"],
 	mobile: ["React Native", "Kotlin"],
 };
 ```
 
 **🎨 Frontend:** `React` `Next.js` `TypeScript` `Tailwind CSS`
 **⚡ State Management:** `Jotai` `TanStack Query` `Zustand` `Recoil`
-**🔧 Backend:** `Node.js` `NestJS` `Java`
+**🔧 Backend:** `Node.js` `NestJS`
 **📱 Mobile:** `React Native` `Kotlin`
 
 ## Expertise
