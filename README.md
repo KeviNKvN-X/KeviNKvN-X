@@ -43,13 +43,6 @@ const techStack = {
 📱 **Cross-Platform Development** - React Native solutions
 🏗️ **Scalable Architecture** - Micro-frontends and modern patterns
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KeviNKvN-X&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
 
 ---
 
